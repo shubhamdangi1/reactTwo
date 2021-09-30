@@ -1,3 +1,1 @@
 # reactTwo
-
-point zero
